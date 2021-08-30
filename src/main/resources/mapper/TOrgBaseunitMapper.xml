@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kingdee.sqkg.mapper.TOrgBaseunitMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.kingdee.sqkg.domain.entity.TOrgBaseunit">
+        <id column="FID" property="fid" />
+        <result column="FPARTHRID" property="fparthrid" />
+        <result column="FISHRORGUNIT" property="fishrorgunit" />
+        <result column="FNAME_L1" property="fnameL1" />
+        <result column="FNAME_L2" property="fnameL2" />
+        <result column="FNAME_L3" property="fnameL3" />
+        <result column="FNUMBER" property="fnumber" />
+        <result column="FDESCRIPTION_L1" property="fdescriptionL1" />
+        <result column="FDESCRIPTION_L2" property="fdescriptionL2" />
+        <result column="FDESCRIPTION_L3" property="fdescriptionL3" />
+        <result column="FSIMPLENAME" property="fsimplename" />
+        <result column="FISLEAF" property="fisleaf" />
+        <result column="FLEVEL" property="flevel" />
+        <result column="FLONGNUMBER" property="flongnumber" />
+        <result column="FISGROUPING" property="fisgrouping" />
+        <result column="FEFFECTDATE" property="feffectdate" />
+        <result column="FINVALIDDATE" property="finvaliddate" />
+        <result column="FISFREEZE" property="fisfreeze" />
+        <result column="FISCOMPANYORGUNIT" property="fiscompanyorgunit" />
+        <result column="FISADMINORGUNIT" property="fisadminorgunit" />
+        <result column="FISSALEORGUNIT" property="fissaleorgunit" />
+        <result column="FISPURCHASEORGUNIT" property="fispurchaseorgunit" />
+        <result column="FISSTORAGEORGUNIT" property="fisstorageorgunit" />
+        <result column="FISPROFITORGUNIT" property="fisprofitorgunit" />
+        <result column="FISCOSTORGUNIT" property="fiscostorgunit" />
+        <result column="FISCU" property="fiscu" />
+        <result column="FISUNION" property="fisunion" />
+        <result column="FCREATORID" property="fcreatorid" />
+        <result column="FCREATETIME" property="fcreatetime" />
+        <result column="FLASTUPDATEUSERID" property="flastupdateuserid" />
+        <result column="FLASTUPDATETIME" property="flastupdatetime" />
+        <result column="FCONTROLUNITID" property="fcontrolunitid" />
+        <result column="FPARENTID" property="fparentid" />
+        <result column="FPARTCTRLID" property="fpartctrlid" />
+        <result column="FPARTADMINID" property="fpartadminid" />
+        <result column="FPARTFIID" property="fpartfiid" />
+        <result column="FPARTSALEID" property="fpartsaleid" />
+        <result column="FPARTSTORAGEID" property="fpartstorageid" />
+        <result column="FPARTPURCHASEID" property="fpartpurchaseid" />
+        <result column="FPARTCOSTCENTERID" property="fpartcostcenterid" />
+        <result column="FPARTPROFITCENTERID" property="fpartprofitcenterid" />
+        <result column="FISSTART" property="fisstart" />
+        <result column="FISOUSEALUP" property="fisousealup" />
+        <result column="FPARTUNIONGROUPID" property="fpartuniongroupid" />
+        <result column="FDISPLAYNAME_L1" property="fdisplaynameL1" />
+        <result column="FDISPLAYNAME_L2" property="fdisplaynameL2" />
+        <result column="FDISPLAYNAME_L3" property="fdisplaynameL3" />
+        <result column="FCODE" property="fcode" />
+        <result column="FENGLISHNAME" property="fenglishname" />
+        <result column="FVERSIONNUMBER" property="fversionnumber" />
+        <result column="FMAINTAINCUID" property="fmaintaincuid" />
+        <result column="FISASSISTANTORG" property="fisassistantorg" />
+        <result column="FMAINORGID" property="fmainorgid" />
+        <result column="FACCOUNTSCHEMEID" property="faccountschemeid" />
+        <result column="FISTRANSPORTORGUNIT" property="fistransportorgunit" />
+        <result column="FPARTTRANSPORTID" property="fparttransportid" />
+        <result column="FISQUALITYORGUNIT" property="fisqualityorgunit" />
+        <result column="FPARTQUALITYID" property="fpartqualityid" />
+        <result column="FNAMEPINYIN" property="fnamepinyin" />
+        <result column="FNAMESHORTPINYIN" property="fnameshortpinyin" />
+        <result column="FORGTYPESTR" property="forgtypestr" />
+    </resultMap>
+
+</mapper>

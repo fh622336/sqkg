@@ -1,0 +1,38 @@
+2021-08-30 08:57:06,549 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:55)- Starting SqkgApplication using Java 1.8.0_191 on LAPTOP-0VFI4JLE with PID 6568 (D:\beifen\workspace\ideaworkspace\sqkgworkspace\target\classes started by HUAWEI in D:\beifen\workspace\ideaworkspace\sqkgworkspace)
+2021-08-30 08:57:06,563 [main] [com.kingdee.sqkg.SqkgApplication] [DEBUG] (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-30 08:57:06,563 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-08-30 08:57:09,539 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:61)- Started SqkgApplication in 3.557 seconds (JVM running for 4.612)
+2021-08-30 09:07:23,117 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:55)- Starting SqkgApplication using Java 1.8.0_191 on LAPTOP-0VFI4JLE with PID 6840 (D:\beifen\workspace\ideaworkspace\sqkgworkspace\target\classes started by HUAWEI in D:\beifen\workspace\ideaworkspace\sqkgworkspace)
+2021-08-30 09:07:23,120 [main] [com.kingdee.sqkg.SqkgApplication] [DEBUG] (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-30 09:07:23,121 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-08-30 09:07:25,483 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:61)- Started SqkgApplication in 2.75 seconds (JVM running for 3.565)
+2021-08-30 09:09:07,669 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:55)- Starting SqkgApplication using Java 1.8.0_191 on LAPTOP-0VFI4JLE with PID 19252 (D:\beifen\workspace\ideaworkspace\sqkgworkspace\target\classes started by HUAWEI in D:\beifen\workspace\ideaworkspace\sqkgworkspace)
+2021-08-30 09:09:07,671 [main] [com.kingdee.sqkg.SqkgApplication] [DEBUG] (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-30 09:09:07,672 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-08-30 09:09:09,944 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:61)- Started SqkgApplication in 2.654 seconds (JVM running for 3.484)
+2021-08-30 09:36:02,077 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection refused: connect
+2021-08-30 09:36:02,082 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 09:37:00,011 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection reset
+2021-08-30 09:37:00,013 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 09:38:18,706 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:55)- Starting SqkgApplication using Java 1.8.0_191 on LAPTOP-0VFI4JLE with PID 11168 (D:\beifen\workspace\ideaworkspace\sqkgworkspace\target\classes started by HUAWEI in D:\beifen\workspace\ideaworkspace\sqkgworkspace)
+2021-08-30 09:38:18,710 [main] [com.kingdee.sqkg.SqkgApplication] [DEBUG] (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-30 09:38:18,710 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-08-30 09:38:21,065 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:61)- Started SqkgApplication in 2.745 seconds (JVM running for 3.573)
+2021-08-30 09:58:02,086 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection refused: connect
+2021-08-30 09:58:02,091 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 09:59:00,024 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection reset
+2021-08-30 09:59:00,025 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 10:10:25,307 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:55)- Starting SqkgApplication using Java 1.8.0_191 on LAPTOP-0VFI4JLE with PID 16828 (D:\beifen\workspace\ideaworkspace\sqkgworkspace\target\classes started by HUAWEI in D:\beifen\workspace\ideaworkspace\sqkgworkspace)
+2021-08-30 10:10:25,309 [main] [com.kingdee.sqkg.SqkgApplication] [DEBUG] (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-30 10:10:25,310 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-08-30 10:10:27,514 [main] [com.kingdee.sqkg.SqkgApplication] [INFO] (StartupInfoLogger.java:61)- Started SqkgApplication in 2.557 seconds (JVM running for 3.691)
+2021-08-30 10:49:02,046 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection refused: connect
+2021-08-30 10:49:02,051 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 10:50:00,013 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection reset
+2021-08-30 10:50:00,014 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 10:56:00,027 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection reset
+2021-08-30 10:56:00,029 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 10:57:00,017 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection reset
+2021-08-30 10:57:00,018 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
+2021-08-30 11:12:02,060 [pool-1-thread-3] [com.kingdee.sqkg.util.HttpUtil] [INFO] (HttpUtil.java:109)- POST请求有误，具体错误为：Connection refused: connect
+2021-08-30 11:12:02,061 [pool-1-thread-3] [com.kingdee.sqkg.util.easUtil] [INFO] (easUtil.java:40)- 获取SESSIONID失效,报错信息为:Error on line 1 of document  : 文件提前结束。
